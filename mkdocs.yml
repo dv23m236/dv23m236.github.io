@@ -1,0 +1,7 @@
+site_name: Personal Homepage
+nav:
+ - Home: index.md
+ - Lernjournal: journal.md
+ - About: about.md
+Theme:
+ name: material
