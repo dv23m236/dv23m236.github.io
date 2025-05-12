@@ -1,1 +1,1 @@
-Link Lernjoiurnal
+Link Lernjournal
