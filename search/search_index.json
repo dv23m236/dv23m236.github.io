@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Welcome to my Homepage","title":"Home"},{"location":"about/","text":"Davide Verardo","title":"About"},{"location":"journal/","text":"Link Lernjournal","title":"Lernjournal"}]}
